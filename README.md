@@ -198,7 +198,6 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/e17a0a98-9fea-4792-b2cd-b2cb29e2339b)
 
 ![image](https://github.com/user-attachments/assets/110ca727-a037-4e93-8c8c-c2eb65ed6c32)
 
